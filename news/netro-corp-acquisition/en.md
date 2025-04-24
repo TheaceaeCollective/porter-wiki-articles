@@ -4,8 +4,8 @@ type: news
 title: Netro Corp to Acquire Theaceae Collective
 date: 2025-04-24T14:45:20.034Z
 category: pages
-author: Theaceae Collective
-description: Give us money until the throbbing subsides
+author: papertek
+description: Joy to the future! We got this!!
 image: /netro1.png
 ---
 
