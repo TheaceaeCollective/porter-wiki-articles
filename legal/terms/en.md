@@ -32,7 +32,7 @@ We are not liable for any direct or indirect damages arising out of or in any wa
 
 ### 5. Governing Law
 
-These Terms of Service shall be governed in accordance with the laws of the United States of America. Any legal disputes shall be subject to the exclusive jurisdiction of the courts located in South Carolina.
+These Terms of Service shall be governed in accordance with the laws of the United States of America. Any legal disputes shall be subject to the exclusive jurisdiction of the courts located in Texas.
 
 ### 6. Termination
 
