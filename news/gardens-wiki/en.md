@@ -19,7 +19,7 @@ Gardens Wiki is a new project we're working on. It will be a centralized wiki pl
 
 ## What happens now?
 
-All of Theaceae's projects are now haulted while we discuss what to work on internally. Theaceae Collective's website builder that was teased is also likely cancelled due to the needs of our company. I don't announce this with a heavy heart btw, we have plenty of other ideas that could be turned into a product for our users will enjoy!
+All of Theaceae's projects are now halted while we discuss what to work on internally. Theaceae Collective's website builder, which was teased, is also likely cancelled due to our company's needs. I don't announce this with a heavy heart btw, we have plenty of other ideas that could be turned into a product for our users will enjoy!
 
 ## Potaro Wiki?
 
