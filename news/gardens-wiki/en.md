@@ -11,7 +11,7 @@ image: /gardensdesign.png
 
 ## Hello, I am papertek
 
-This is sort of a followup to the [previous](news/netro-corp-acquisition) news post about how we were acquired by [Netro Corporation](https://discord.gg/Hrah28gmjy). Well, due to that we now have the resources to lock in on Gardens Wiki.
+This is sort of a followup to the [previous](netro-corp-acquisition) news post about how we were acquired by [Netro Corporation](https://discord.gg/Hrah28gmjy). Well, due to that we now have the resources to lock in on Gardens Wiki.
 
 ## What is Gardens Wiki, yo?
 
