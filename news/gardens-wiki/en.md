@@ -1,7 +1,7 @@
 ---
 layout: post
 type: news
-title: What is Gardens Wiki? An update
+title: An update and what is Gardens Wiki
 date: 2025-12-7 01:13 -0600
 category: pages
 author: papertek
