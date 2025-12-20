@@ -10,4 +10,5 @@ description: Details about porter
 > This page needs updating. Thank you ! !
 {: .warning }
 
-porter robinson cool. rob robinson urbanist. nick robinson youtube
+## Introduction
+Porter Weston Robinson is an American DJ, singer, songwriter, and record producer from North Carolina. He started making electronic music as a teenager. Robinson's music is described as experimental yet accessible, and driven by his own vocals
