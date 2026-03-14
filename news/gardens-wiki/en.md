@@ -11,7 +11,7 @@ image: /gardensdesign.png
 
 ## Hello, I am papertek
 
-This is sort of a followup to the [previous](netro-corp-acquisition) news post about how we were acquired by [Netro Corporation](https://discord.gg/Hrah28gmjy). Well, due to that we now have the resources to lock in on Gardens Wiki.
+This is sort of a followup to the [previous](netro-corp-acquisition) news post about how we joined [Netro](https://netro.works/). Well, due to that we now have the resources to lock in on Gardens Wiki.
 
 ## What is Gardens Wiki, yo?
 
@@ -23,7 +23,7 @@ All of Theaceae's projects are now halted while we discuss what to work on inter
 
 ## Potaro Wiki?
 
-Porter Robinson Wiki (potaro.wiki) has halted development until we can migrate to Gardens Wiki (so all the WIP features are actually on the site, lol). Before we do that, however, there will likely be a migration period for Potaro Wiki accounts to be converted to myNetro accounts. A myNetro account will be used to log in to all Netro Corporation and Theaceae Collective products and sites.
+Porter Robinson Wiki (potaro.wiki) has halted development until we can migrate to Gardens Wiki (so all the WIP features are actually on the site, lol). Before we do that, however, there will likely be a migration period for Potaro Wiki accounts to be converted to myNetro accounts. A myNetro account will be used to log in to all Netro and Theaceae Collective products and sites.
 
 If you have any questions, feedback, issues, or wish to help out, you can add me on Discord <mark>@papertek</mark>, or you can E-Mail me at <john@theaceae.org>.
 
